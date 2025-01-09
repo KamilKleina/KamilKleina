@@ -21,7 +21,7 @@ jobs:
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
-          git clone https://github.com/KamilKleina/PyProfileDataGen.git
+          git clone https://github.com/sockheadrps/PyProfileDataGen.git
         env:
           TOKEN: ${{ secrets.TOKEN }}
       - name: Move files from PythonDataGen to current repository
