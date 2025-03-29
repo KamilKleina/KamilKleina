@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://l.kleina.org/assets/img/1.png" width="200" height="200" style="border-radius: 50%;" />
-
 # Hi, I'm Kamil
 
 💻 Software Engineer  
@@ -14,7 +12,7 @@
 
 ### Operating Systems  
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ### Programming Languages  
@@ -37,22 +35,12 @@
 ### Cloud and Containerization  
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
-![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat&logo=amazon-athena&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![AWS Lake Formation](https://img.shields.io/badge/AWS%20Lake%20Formation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=amazon-lambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-CC0000?style=flat&logo=amazon-redshift&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazon&logoColor=white)  
 
 ### CI/CD & Automation  
 
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github&logoColor=white)
 
 ### Version Control  
 
